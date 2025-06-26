@@ -7,8 +7,6 @@ protocol for a standalone Bitcoin miner. It has no dependencies outside of
 standard Python libraries and a JSON-HTTP connection to your local Bitcoin
 daemon.
 
-Donations are welcome at `15PKyTs3jJ3Nyf3i6R7D9tfGCY1ZbtqWdv` :)
-
 ## Usage
 
 * Configure `rpcuser` and `rpcpass` in `~/.bitcoin/bitcoin.conf`
